@@ -62,7 +62,7 @@ tasks:
       id: d9232c5f-0925-486a-844f-03851428c83a
       iscommand: false
       name: Search Alerts
-      script: SearchAlertsV2
+      script: SearchIncidentsV2
       type: regular
       version: -1
     taskid: d9232c5f-0925-486a-844f-03851428c83a

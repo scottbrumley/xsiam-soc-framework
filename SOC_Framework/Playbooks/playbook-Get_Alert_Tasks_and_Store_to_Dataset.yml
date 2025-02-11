@@ -73,7 +73,7 @@ tasks:
       id: bf0ee84a-541f-40ef-8464-8ede6b9d432d
       iscommand: false
       name: Get Alert Tasks
-      script: GetAlertTasks
+      script: GetIncidentTasks
       type: regular
       version: -1
     taskid: bf0ee84a-541f-40ef-8464-8ede6b9d432d
